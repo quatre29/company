@@ -1,0 +1,16 @@
+{
+  "name": "company",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.32.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
